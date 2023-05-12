@@ -18,6 +18,6 @@ class program{
         string response;
         cout << "Response here:";
         cin >> response;
-        cout << "Your response and time logged here:" << response;
+        cout << "Your response and time logged here:" << response << time;
     }
 }
