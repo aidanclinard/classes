@@ -11,6 +11,7 @@ class Program
             Console.WriteLine("1:Write");
             Console.WriteLine("2:Display");
             Console.WriteLine("3:Quit");
+            
             string optionSelected = Console.ReadLine();
             try
             {
