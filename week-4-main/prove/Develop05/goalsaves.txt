@@ -1,0 +1,9 @@
+test1
+Goal is repeatable: True
+Completed
+test2
+Goal is repeatable: True
+Completed
+test3
+Goal is repeatable: False
+Not completed.
